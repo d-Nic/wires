@@ -1,0 +1,12 @@
+newmtl Wedge1Mtl
+Material Color
+Ka 0.000107187 0.436813 0.84337
+Kd 0.000107187 0.436813 0.84337
+Ks 6.72548e-06 0.0274079 0.0529173 
+
+d 1
+
+Ns 0
+
+map_Bump Wedge1_nmap.png
+
